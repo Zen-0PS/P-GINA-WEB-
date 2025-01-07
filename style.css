@@ -44,7 +44,7 @@ body {
 
 /* Tamaño individual de los iconos */
 .icon-cart {
-  width: 42.5px; /* Tamaño del ícono carrito */
+  width: 48.5px; /* Tamaño del ícono carrito */
 }
 
 .icon-profile {
@@ -133,7 +133,7 @@ body {
 }
 
 .footer-icon {
-  width: 90px; /* Tamaño del ícono en el pie */
+  width: 110px; /* Tamaño del ícono en el pie */
   height: auto;
   cursor: pointer; /* Ícono cliqueable */
 }
