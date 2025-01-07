@@ -23,7 +23,7 @@ body {
 }
 
 .logo-left img {
-  width: 150px; /* Tamaño del logo izquierdo */
+  width: 250px; /* Tamaño del logo izquierdo */
   height: auto;
 }
 
@@ -44,19 +44,19 @@ body {
 
 /* Tamaño individual de los iconos */
 .icon-cart {
-  width: 22.5px; /* Tamaño del ícono carrito */
+  width: 42.5px; /* Tamaño del ícono carrito */
 }
 
 .icon-profile {
-  width: 18px; /* Tamaño del ícono perfil */
+  width: 38px; /* Tamaño del ícono perfil */
 }
 
 .icon-search {
-  width: 20px; /* Tamaño del ícono buscar */
+  width: 40px; /* Tamaño del ícono buscar */
 }
 
 .icon-menu {
-  width: 20px; /* Tamaño del ícono menú */
+  width: 40px; /* Tamaño del ícono menú */
 }
 
 /* Contenido principal */
@@ -68,7 +68,7 @@ body {
 }
 
 .logo-central {
-  width: 250px; /* Tamaño del logo central */
+  width: 450px; /* Tamaño del logo central */
   height: auto;
   margin-bottom: 20px;
   transition: transform 0.3s;
@@ -79,7 +79,7 @@ body {
 }
 
 .icon-below {
-  width: 350px; /* Tamaño del ícono debajo */
+  width: 550px; /* Tamaño del ícono debajo */
   height: auto;
   margin: 20px auto 0;
   display: block; /* Centrado */
@@ -113,7 +113,7 @@ body {
 }
 
 .icon-below {
-  width: 350px; /* Tamaño del ícono debajo */
+  width: 550px; /* Tamaño del ícono debajo */
   height: auto;
   margin: 20px auto 0;
   display: block; /* Centrado */
