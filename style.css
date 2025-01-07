@@ -133,7 +133,7 @@ body {
 }
 
 .footer-icon {
-  width: 70px; /* Tamaño del ícono en el pie */
+  width: 90px; /* Tamaño del ícono en el pie */
   height: auto;
   cursor: pointer; /* Ícono cliqueable */
 }
